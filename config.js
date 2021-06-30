@@ -1,7 +1,7 @@
-const ownerNumber = ["555199571240@s.whatsapp.net"] 
+const ownerNumber = ["5521979311579@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '555199571240' 
+const OriginalOwner = '5521979311579' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -13,7 +13,7 @@ var sgooglenotregister = false
 const antinewchatmsg = 'O anti chat novo está ativado e você não é meu proprietário, logo será bloqueado'
 //mensagem do antinewchat
 
-const urlaudiomenu = 'https://j.top4top.io/m_2007bc4a37.mp3'
+const urlaudiomenu = 'https://b.top4top.io/m_200798ahx7.mp3'
 // link direto da url do audio
 
 const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
@@ -61,21 +61,21 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '✨ 𝐁𝐎𝐓 𝐀𝐓𝐋𝐀𝐍𝐓𝐈𝐃𝐀 ✨\n' 
+const cr = '🔥 𝐁𝐎𝐓 𝐋𝐔𝐂𝐈𝐅𝐄𝐑 🔥\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
 // prefixo
 
-const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
+const blockedmsg = '*🔥tomou block lek🔥*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+const blockedcmdmsg = '*🔥🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫🔥*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '✨𝐛𝐚𝐧 𝐚𝐦𝐢𝐠𝐨✨'
+const banmsgtype = '*🔥ban🔥*'
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
@@ -87,7 +87,7 @@ const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = '✨𝐛𝐚𝐧 𝐚𝐦𝐢𝐠𝐨✨'
+const banmsglink = '🔥ban lek🔥'
 // mensagem de ban no antilink
 
 const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
@@ -143,7 +143,7 @@ const numbotfeio = 'senhora sua mãe 😡'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '✨ 𝐁𝐎𝐓 𝐀𝐓𝐋𝐀𝐍𝐓𝐈𝐃𝐀 ✨',
+    wait: '🔥 𝐁𝐎𝐓 𝐋𝐔𝐂𝐈𝐅𝐄𝐑 🔥',
     success: '✔️ Sucesso! ✔️',
     error: {
         stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
