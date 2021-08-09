@@ -15,10 +15,16 @@ return `
 ┃ ${p}info
 ┃ ${p}del
 ┃ ${p}delete
+┃ ${p}ajuda
+┃ ${p}help
+┃ ${p}oficialcriador
+┃ ${p}comandos
 ┃ ${p}menulite
 ┃ ${p}menu
 ┃ ${p}ping
 ┃ ${p}destrava
+┃ ${p}sugerircmd (txt)
+┃ ${p}terbot
 ┃ ${p}blocklist
 ┃ ${p}blacklist
 ┃ ${p}criador
@@ -43,11 +49,22 @@ return `
 ┃ ${p}unblock (num)
 ┃ ${p}msginfo
 ┃ ${p}chatinfo
+┣━━━━━⏱️ 𝘾𝙊𝙉𝙏𝘼𝘿𝙊𝙍 ⏱️━━━━━╮
+┃ ${p}checkativo (dial)
+┃ ${p}rankativo
+┃ ${p}atividade
+┃ ${p}filtroativo
+┃ ${p}banativos
+┣━━━━━🔇 𝙈𝙐𝙏𝘼𝙍 🔇━━━━━╮
+┃ ${p}mute (marcar)
+┃ ${p}desmute (marcar)
+┃ ${p}mutados
 ┣━━━━━💫 𝙇𝙀𝙑𝙀𝙇 💫━━━━━╮
 ┃ ${p}deletelevel
 ┃ ${p}level (n/a, num)
 ┃ ${p}registerlevel
 ┣━━━━━⏳ 𝙇𝙄𝙈𝙄𝙏𝙀𝙎 ⏳━━━━╮
+┃ ${p}rmlimituser
 ┃ ${p}resetlimit
 ┃ ${p}limitcmd (1 or 0)
 ┃ ${p}mylimit
@@ -113,7 +130,8 @@ return `
 ┃ ou marque alguém
 ┃
 ┃ ${p}triggerfig
-┃ ${p}triggered 
+┃ ${p}triggered
+┃ ${p}amongus 
 ┃ ${p}lisa (txt)
 ┃ ${p}sepie 
 ┃ ${p}invert
@@ -230,6 +248,7 @@ return `
 ┃ ${p}map (name)
 ┃ ${p}brainlysrc (name)
 ┃ ${p}search (name)
+┃ ${p}searchv2 (name)
 ┃ ${p}ssweb (url)
 ┃ ${p}mediafire (url)
 ┃ ${p}mob
@@ -323,6 +342,7 @@ return `
 ┃ ${p}playv2 (music name)
 ┃ ${p}tomp3 (cap, resp vid)
 ┃ ${p}ytsearch (name)
+┃ ${p}ytsrc (name)
 ┃ ${p}ytmp4 (yt url)
 ┃ ${p}ytmp3 (yt url)
 ┣━━━⚙️ 𝙂𝙀𝙍𝘼𝘿𝙊𝙍 ⚙️━━━━╮
@@ -455,5 +475,4 @@ return `
 }
 
 exports.help = help
-
 
